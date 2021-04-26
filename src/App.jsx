@@ -14,5 +14,5 @@ function App() {
     </div>
   )
 }
-
+<script src="scripts/forecast.js"></script>
 export default App; 
