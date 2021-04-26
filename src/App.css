@@ -7,7 +7,6 @@
 .App-header {
   background-color: #eeedec;
   letter-spacing: 0.2em;
-  font-size: 0.8em;
   min-height: 50vh;
   display: flex;
   flex-direction: column;
